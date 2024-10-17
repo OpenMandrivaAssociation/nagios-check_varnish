@@ -4,7 +4,7 @@ Version:	1.0
 Release:	%mkrel 4
 License:	BSD-like
 Group:		Networking/Other
-URL:		http://varnish.projects.linpro.no/
+URL:		https://varnish.projects.linpro.no/
 Source0:	http://dfn.dl.sourceforge.net/sourceforge/varnish/nagios-varnish-plugin-%{version}.tar.gz
 Requires:	nagios-plugins
 Requires:	varnish
