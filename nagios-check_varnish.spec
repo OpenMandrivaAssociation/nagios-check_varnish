@@ -8,6 +8,11 @@ URL:		https://varnish.projects.linpro.no/
 Source0:	http://dfn.dl.sourceforge.net/sourceforge/varnish/nagios-varnish-plugin-%{version}.tar.gz
 Requires:	nagios-plugins
 Requires:	varnish
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	varnish-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}
 
