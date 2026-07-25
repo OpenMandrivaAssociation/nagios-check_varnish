@@ -1,7 +1,7 @@
 Summary:	Plugins for Nagios to monitor varnish
 Name:		nagios-check_varnish
 Version:	1.0
-Release:	%mkrel 4
+Release:	5
 License:	BSD-like
 Group:		Networking/Other
 URL:		https://varnish.projects.linpro.no/
